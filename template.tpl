@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Zeotap S2S Real Time API - TRKKN version",
+  "displayName": "Zeotap S2S Real Time API",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",

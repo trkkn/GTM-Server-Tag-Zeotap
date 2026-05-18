@@ -2,4 +2,4 @@ homepage: "https://www.trkkn.com/"
 documentation: "https://github.com/trkkn/GTM-Server-Tag-Zeotap-TRKKN-Version/blob/main/README.md"
 versions:
   - sha: 95c98c8c3be72e364005b69f205fe25425ef8436
-    changeNotes: Initial public release (1.1.0)
+    changeNotes: Initial public release (1.0.0)
